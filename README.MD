@@ -61,13 +61,13 @@ Install dependencies
 Kaggle
 
 ```bash
-  jupyter notebook
+  https://www.kaggle.com/datasets/harshsingh2209/supply-chain-analysis
 ```
 
 Dataset research google
 
 ```bash
-  https://datasetsearch.research.google.com/
+  https://datasetsearch.research.google.com/search?src=0&query=supply-chain-analysis&docid=L2cvMTF2MGx6Z21wMA%3D%3D
 ```
 
 ### Order Quantity Optimization
